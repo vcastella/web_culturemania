@@ -1,0 +1,85 @@
+.nav-screen
+{
+	width: 100%;
+	font-size:1.2em;
+	position : static;
+}
+
+nav ul li
+{
+	float : none;
+	width : calc(100%);
+	height: 40px;
+    border-bottom: 1px solid #1C1C1C;
+}
+
+
+nav ul li:hover > ul 
+{
+	display : none;
+}
+
+nav ul li a 
+{
+	padding: 5px 0px;
+}
+
+.culturemania
+{
+	display: none;
+}
+
+.cm-section
+{
+	margin-top : 0px;
+}
+
+.cm-main
+{
+	width: 100%;	
+}
+
+.cm-glass-main
+{
+	width: 100%;
+	padding: 0px;
+	border : none;
+}
+
+.cm-news-75
+{
+	width: 65%;
+}
+
+aside 
+{
+	width: 34%;
+}
+
+.cm-news-2
+{
+	width : calc(100%/2 - 10px);
+}
+
+.cm-padding-10
+{
+	padding : 5px;
+}
+
+.cm-main-quote
+{
+	padding-left: 0px;
+	width: 100%;
+}
+
+.cm-news-5
+{
+	width: calc(100%/5 - 12px );
+    margin: 5px;
+}
+
+.cm-margin-150
+{
+	display: none;
+	
+}

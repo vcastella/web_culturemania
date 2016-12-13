@@ -1,0 +1,143 @@
+aside
+{
+	float : none;
+	display: block;
+	width : 100%;
+}
+
+
+.cm-news-75
+{
+	width: 100%;
+}
+
+.cm-padding-10
+{
+	padding: 0px;
+}
+
+.cm-padding-10 p
+{
+	padding : 10px;
+}
+
+
+.cm-news-main
+{
+	width: 100%;
+}
+
+.cm-intro
+{
+	padding: 10px;
+}
+
+.cm-image-container
+{
+	padding: 10px;
+	max-width: calc(90% - 20px);
+}
+
+blockquote
+{
+	width: calc(90% - 82px);
+}
+
+.cm-block-3
+{
+	width : 100%;	
+}
+
+
+.cm-div-3
+{
+	width : calc(100% - 20px);
+}
+
+.cm-news-2, .cm-news-3
+{
+	margin: 0px;
+	width: 100%;
+	margin-bottom : 40px;
+}
+
+.cm-formulaire input[type="file"]
+{
+	padding: 0px;
+}
+
+.cm-formulaire input[type="text"], .cm-formulaire input[type="password"], .cm-formulaire input[type="date"]
+{
+	font-size: 1.0em;
+}
+
+h3
+{
+	font-size : 1.2em;
+}
+
+footer .cm-main
+{
+	width: calc(100% - 30px);
+	padding : 15px;
+}
+
+.cm-article-texte
+{
+	width: 100%;
+}
+
+.cm-article-texte p
+{
+	width: 90%;
+}
+
+.cm-news-5
+{
+	width: calc(100%/2 - 12px );
+}
+
+
+.cm-news-2 p, .cm-news-3 p, .cm-news-5 p, .cm-news-main p
+{
+	height: calc(1.6em * 3 - 10px);
+}
+
+.cm-news-main .cm-crop .cm-img-logo, .cm-news-75 .cm-crop .cm-img-logo
+{
+	width : 48px;
+	height : 48px;
+}
+
+
+.nav-screen
+{
+	font-size:0.6em;
+}
+
+nav ul li
+{
+	height: 20px;
+}
+
+
+nav ul li img
+{
+	width: 14px;
+}
+
+.cm-popup
+{
+	visibility: hidden;
+}
+
+.cm-news-2 h4
+{
+    font-size : 1.1em;
+    padding-left: 5px;
+}
+
+.cm-info-frame
+{
+	display: none;
+}
