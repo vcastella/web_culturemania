@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html id="topanchor" lang="fr">
 <head>
+
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Culturemania - A propos</title>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
